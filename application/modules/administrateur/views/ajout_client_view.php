@@ -372,21 +372,11 @@ START - Table with actions
                                     
                                     
 
-
-
-
-
-
-
-
-
-
-
                                             <div class="row">
                                                 <div class="col-sm-4">
                                                     <div class="form-group">
                                                         <label for="">Raison social:</label>
-                                                        <input class="form-control" data-minlength="6"  name="Raison_social" id="raison_social" type="text">
+                                                        <input class="form-control"  name="Raison_social" id="raison_social" type="text">
                                                         
                                                     </div>
                                                 </div>

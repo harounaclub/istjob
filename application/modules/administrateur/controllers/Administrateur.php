@@ -651,7 +651,12 @@ class Administrateur extends MX_Controller {
           $pass_admin="pass".$id_genere;
 
 
+// 'nom_contact' =>$nom_contact,
+//                                 'prenoms_contact' =>$prenoms_contact,
+//                                 'email_contact' =>$email_contact,
 
+//                                 'localisation_entreprise'=>$localisation_entreprise,
+//                                 'telephone_contact'=>$telephone_contact,
 
 
          
@@ -668,12 +673,7 @@ class Administrateur extends MX_Controller {
                                 'telephone_entreprise' =>$telephone_entreprise,
                               
                                  
-                                'nom_contact' =>$nom_contact,
-                                'prenoms_contact' =>$prenoms_contact,
-                                'email_contact' =>$email_contact,
-
-                                'localisation_entreprise'=>$localisation_entreprise,
-                                'telephone_contact'=>$telephone_contact,
+                                
                                 
           
 
@@ -684,7 +684,8 @@ class Administrateur extends MX_Controller {
         
 
                 $data_clean = $this->security->xss_clean($data);
-
+                
+                
                 
                 if($this->administrateur_model->ajout_client($data_clean)){
 
