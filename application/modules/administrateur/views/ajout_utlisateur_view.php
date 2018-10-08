@@ -467,6 +467,15 @@ START - Table with actions
                                                         
                                                     </div>
                                                 </div>
+
+                                                 <div class="col-sm-4">
+                                                    <div class="form-group">
+                                                        <label for="">Mot de passe :</label>
+                                                        <input class="form-control" name="mdp_administrateur" type="text" value="<?php echo $mdp_administrateur; ?>">
+                                <?php echo form_error('mdp_administrateur','<font color="red">','</font>'); ?>
+                                                        
+                                                    </div>
+                                                </div>
                                              </div>
                                              </div>
 

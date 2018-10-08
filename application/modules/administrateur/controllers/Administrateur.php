@@ -936,7 +936,7 @@ class Administrateur extends MX_Controller {
           $id_administrateur=$this->input->post('id_administrateur');
 
           $login_administrateur =$email_administrateur;
-          $mdp_administrateur =$this->administrateur_model->clePrimaire(8);
+          $mdp_administrateur =$this->input->post('mdp_administrateur');
 
 
 
@@ -982,6 +982,8 @@ class Administrateur extends MX_Controller {
 
                     $data["liste_profil"]=$this->administrateur_model->get_liste_profil();
                     $data["id_administrateur"]=$this->administrateur_model->clePrimaire(8);
+
+                    $data["mdp_administrateur"] =$this->administrateur_model->clePrimaire(8);
                     $this->load->view("ajout_utlisateur_view",$data);
 
                      
@@ -993,6 +995,7 @@ class Administrateur extends MX_Controller {
 
     $data["liste_profil"]=$this->administrateur_model->get_liste_profil();
     $data["id_administrateur"]=$this->administrateur_model->clePrimaire(8);
+    $data["mdp_administrateur"] =$this->administrateur_model->clePrimaire(8);
       $this->load->view("ajout_utlisateur_view",$data);
 
     }
