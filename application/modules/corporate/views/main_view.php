@@ -284,9 +284,7 @@
             	<div class="col-lg-10 col-md-8 col-sm-8 col-xs-12 ">
                 	<h3 class="white-heading">Besoin de personnel <span>cliquer ici pour</span> </h3>
                 </div>
-                <div class="col-lg-2 col-md-4 col-sm-4 col-xs-12 no-padding-left">
-                	<a href="<?php echo base_url(); ?>corporate/poster_offre" class="btn btn-getstarted bg-red">Publier une offre</a>
-                </div>
+                
             </div>
             </div>
         </div>
