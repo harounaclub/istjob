@@ -292,54 +292,10 @@
         </div>
     <!-- Green Banner-->
     <!-- Testimionals Slider-->
-    	<div class="container-fluid testimionals" style="background:url(assets/images/testbg.png);">
-			<div class="row">
-            <div class="container main-container">
-            	<div class="col-lg-12">
-                    <div id="testio" class="owl-carousel owl-template">
-                      <!--Slides-->
-                      <div class="item">
-                      		<img src="assets/images/tes-profile.png" alt="Photo" /> 
-                            <div class="info">
-                            	<h5>Harouna Traore</h5>
-                                <span>Chef d'entreprise,expert du web et du mobile</span>
-                                <p>ISTJOB propose une approche simple et efficace pour le processus de recrutement.</p>
-                            </div>
-                       </div>
-
-                       <div class="item">
-                          <img src="assets/images/tes-profile.png" alt="Photo" /> 
-                            <div class="info">
-                              <h5>Kone Boualamane</h5>
-                                <span>Chef d'entreprise,expert du web et du mobile</span>
-                                <p>ISTJOB propose une approche simple et efficace pour le processus de recrutement.</p>
-                            </div>
-                       </div>
-                      
-                     
-                     
-                    </div>
-                </div>
-            </div>     
-        </div>
-        </div>
+    	<!--  -->
     <!-- Testimionals Slider-->
     <!-- Clients Slider-->
-    	<div class="container-fluid clients">
-        <div class="row">
-            <div class="container main-container">
-                    <div class="col-lg-12">
-                        <ul>
-                            <li><img src="assets/images/client1.png" alt="Photo" /> </li>
-                            <li><img src="assets/images/client2.png" alt="Photo" /> </li>
-                            <li><img src="assets/images/client3.png" alt="Photo" /> </li>
-                            <li><img src="assets/images/client4.png" alt="Photo" /> </li>
-                            <li><img src="assets/images/client1.png" alt="Photo" /> </li>
-                        </ul>
-					</div>
-                </div>
-			</div>
-        </div>
+   
 	<!-- Client Slider-->  
 <!--Footer Area-->
    		
