@@ -54,7 +54,7 @@
                                 <p>IST-JOB a pour but d’accompagner les Entreprises, Institutions, Industries et autres structures  dans l’allègement des ressources humaines en prenant en charge ,le recrutement, la gestion des  salaires , la gestion des contrats de travail, les déclarations fiscales, Le dress code ,le portage  salarial, la reprise en gestion, l’externalisation ,etc..</p>
 
                                 <p>
-                                    Notre objectif est de vous accompagner quotidiennement dans la gestion de vos missions à tous les  niveaux pour des placements ou affectations à durée déterminée ou indéterminée, CDD -CDI ou  encore répondre à vos offres de missions RH, grâce à notre connaissance des besoins du 
+                                    Notre objectif est de vous accompagner quotidiennement dans la gestion de vos missions à tous les  niveaux pour des placements ou affectations à durée déterminée ou indéterminée, CDD -CDI ou  encore répondre à vos offres de missions RH, grâce à notre connaissance des besoins du marché.
                                 </p>
                          
                             </div>
