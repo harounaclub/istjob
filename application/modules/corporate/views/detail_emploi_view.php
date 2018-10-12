@@ -46,7 +46,7 @@
             	<div class="container main-container gery-bg">
             		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  no-padding user-data">
                         <div class="seprator ">
-                            <div class="no-padding user-image"><img src="assets/images/job-admin.png" alt=""/></div>
+                          
                             <div class="user-tag">Poste <span><?php echo $it_offre->intitule_offre; ?></span></div>
                             <div class="job-status"><span class="label job-type job-partytime">
                                <?php 
@@ -119,7 +119,7 @@
             	<div class="container main-container-job">
                 	<div class="col-lg-9 col-md-9 col-sm-8">
                     	<div class="post-image">
-                        	<img src="assets/images/job-image.png" alt=""/>
+                        
                         </div>
                         <div class="content">
                         	<h3>Description du profil du poste</h3>
