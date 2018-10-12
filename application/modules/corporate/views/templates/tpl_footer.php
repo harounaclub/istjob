@@ -33,7 +33,7 @@
            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                 	<h3>Contacter nous</h3>
                    	   	<p>Marcory zone 4 C, <br/>8 rue chevalier De Clieu Immeuble SABALIAS , 2 ème étages.</p> 
-                        <p>+225 21 25 27 01 / 21 17 26 25 </p>
+                        <p>+225 21 25 27 01 / 21 28 31 17 </p>
                         
                         <p>http://www.istjobs.com</p>
                 </div>

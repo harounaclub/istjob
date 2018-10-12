@@ -50,7 +50,7 @@
                                 </div>
                             </div>
                             <div class="data-post">
-                                <h3>Qui faisons nous ?</h3>
+                                <h3>Que faisons nous ?</h3>
                                 <p>IST-JOB a pour but d’accompagner les Entreprises, Institutions, Industries et autres structures  dans l’allègement des ressources humaines en prenant en charge ,le recrutement, la gestion des  salaires , la gestion des contrats de travail, les déclarations fiscales, Le dress code ,le portage  salarial, la reprise en gestion, l’externalisation ,etc..</p>
 
                                 <p>
