@@ -40,7 +40,7 @@
                  <!---Footer Column 01-->
                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                 	<h3>A propos</h3>
-                    <p>IST -JOB, est une Entreprise dynamique composée de femmes et d’hommes expérimentés dans la  Sous-traitance, l’Intérim et le Recrutement.</p>
+                    <p>IST -JOB, est une Entreprise dynamique composée d’hommes et de femmes expérimentés dans la  Sous-traitance, l’Intérim et le Recrutement.</p>
                 </div>
             	
             </div>
