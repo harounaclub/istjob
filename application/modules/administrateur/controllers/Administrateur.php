@@ -726,7 +726,7 @@ class Administrateur extends MX_Controller {
 
 
      $this->form_validation->set_rules('libelle_niveau', 'libelle_niveau', 'trim|required');
-     $this->form_validation->set_rules('commentaire', 'commentaire', 'trim|required');
+     $this->form_validation->set_rules('commentaire', 'commentaire', 'trim');
      
     
      
