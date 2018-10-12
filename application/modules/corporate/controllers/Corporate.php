@@ -411,7 +411,7 @@ class Corporate extends MX_Controller {
           
 
 
-          $email_entreprise="harounclub1987@gmail.com";
+          $email_entreprise="responsablerecrutement@istjobs.com";
 
           $message="<h4> <b> Nom : </b> ".$nom."</br>  <b> Email : </b> ".$email."</br> <b> Message : </b>  ".$message." </h4> ";
 
