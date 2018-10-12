@@ -4,7 +4,10 @@
                              <div class="logo">
                                 <a href="<?php echo base_url(); ?>"><img src="<?php echo base_url(); ?>assets/images/logo.PNG" alt="Photo" /> </a>
                              </div>
-                            
+                             <div class="logins">
+                             
+                                    <a href="<?php echo base_url(); ?>corporate/se_connecter" class="login"><i class="fa fa-user"></i></a>
+                        </div>
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="navbar-header">
                           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
