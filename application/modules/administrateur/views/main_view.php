@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<!-- Mirrored from light.pinsupreme.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 Mar 2018 13:25:54 GMT -->
+
 
 <head>
     <title>Administration</title>
