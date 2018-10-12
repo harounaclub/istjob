@@ -851,12 +851,8 @@ class Administrateur extends MX_Controller {
    function ajax_ajout_diplome(){
 
 
-
-
      $this->form_validation->set_rules('libelle_diplome', 'libelle_diplome', 'trim|required');
      $this->form_validation->set_rules('commentaire', 'commentaire', 'trim');
-     
-    
      
 
         
