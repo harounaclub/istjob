@@ -43,7 +43,7 @@
     <!-- Job Categories Filters -->
        <div class="jobs_filters">
                     <div class="container">
-                          <form class="" action="http://deximlabs.com/dexjobs/dark/index.html">
+                         
                      
 
                             <div class="col-lg-12 col-md-4 col-sm-6 col-xs-12 filter_width bgicon">
@@ -57,7 +57,7 @@
                          
                          
                            
-                            </form>
+                            
                     </div>
          
           </div>
