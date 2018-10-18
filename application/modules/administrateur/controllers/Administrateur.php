@@ -161,6 +161,9 @@ class Administrateur extends MX_Controller {
           $id_entreprise=$this->input->post('id_entreprise');
           $intitule_offre=$this->input->post('intitule_offre');
           $libelle_offre=$this->input->post('libelle_offre');
+
+          $lieu_travail_precis=$this->input->post('lieu_travail_precis');
+          
           $metiers=$this->input->post('metiers');
           
           $niveaux=$this->input->post('niveaux');
@@ -170,16 +173,16 @@ class Administrateur extends MX_Controller {
             $date_d_jour=substr($date_debut_offre, 0,2);
             $date_d_mois=substr($date_debut_offre, 3,2);
             $date_d_annee=substr($date_debut_offre, 6,4);
-            $date_debut_eng=$date_d_annee."/".$date_d_mois."/".$date_d_jour;
+            $date_debut_eng=$date_d_annee."/".$date_d_jour."/".$date_d_mois;
 
 
           $date_fin_offre=$this->input->post('date_fin_offre');
             $date_f_jour=substr($date_fin_offre, 0,2);
             $date_f_mois=substr($date_fin_offre, 3,2);
             $date_f_annee=substr($date_fin_offre, 6,4);
-            $date_fin_eng=$date_f_annee."/".$date_f_mois."/".$date_f_jour;
+            $date_fin_eng=$date_f_annee."/".$date_f_jour."/".$date_f_mois;
 
-          $dossier_candidature=$this->input->post('dossier_candidature');
+
           $mission=$this->input->post('mission');
 
           if($this->input->post('mission')){
@@ -346,12 +349,14 @@ class Administrateur extends MX_Controller {
                                 'metier' =>$metiers,
                                 'lieu_habitation' =>$lieu_habitation,
                                 'lieu_travail' =>$lieu_travail,
+                                
+                                'lieu_travail_precis' =>$lieu_travail_precis,
                                
                                 'nb_experience' =>$nb_experience,
                                 'id_entreprise' =>$id_entreprise,
                                 'profil_poste' =>$profil_poste,
                            
-                                'dossier_candidature' =>$dossier_candidature,
+                                
                                 'mission' =>$mission,
 
                                 'status_emploi_directe' =>$status_emploi_directe,
@@ -415,7 +420,7 @@ class Administrateur extends MX_Controller {
 
           $date_debut_offre=$this->input->post('date_debut_offre');
           $date_fin_offre=$this->input->post('date_fin_offre');
-          $dossier_candidature=$this->input->post('dossier_candidature');
+          
           $mission=$this->input->post('mission');
           $profil_poste=$this->input->post('profil_poste');
           $description_offre=$this->input->post('description_offre');
@@ -453,7 +458,7 @@ class Administrateur extends MX_Controller {
                                 'id_entreprise' =>$id_entreprise,
                                 'profil_poste' =>$profil_poste,
                            
-                                'dossier_candidature' =>$dossier_candidature,
+                                
                                 'mission' =>$mission,
                                 
           

@@ -131,8 +131,8 @@
                               $dossier=$it_offre->dossier_candidature; 
 
                               if($dossier != ""){ ?>
-                               <h3>Dossier de candidature :</h3>
-                        <?php echo $it_offre->dossier_candidature; ?>
+                               
+                        <?php //echo $it_offre->dossier_candidature; ?>
 
 
                              <?php }

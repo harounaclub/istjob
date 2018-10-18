@@ -6,7 +6,7 @@
 
     <!-- Basic Page Info -->
     <meta charset="utf-8">
-    <title>Maxshop ci page en construction</title>
+    <title>Istjobs page en construction</title>
     <meta name="description" content="Babideals - page en construction">
     <meta name="author" content="ISP-CI">
 
@@ -52,7 +52,7 @@
     </header>
     <div class="wrapper text-center d_table">
         <div class="d_table_v color_white one">
-            <h4 class="font_semibold">Maxshop ci ,votre plateforme de e-commerce</h4>
+            <h4 class="font_semibold">Istjobs ,votre plateforme de recrutement</h4>
             <h1 class="title"><span class="serif big_2">Bientôt disponible</span></h1>
             <h1 id='' class="title"></h1>
             <div class="space_5"></div>
@@ -94,10 +94,10 @@
         -->
         <div class="info hide">
             <div class="about">
-                <h2 class="title">A propos de Maxshop</h2>
+                <h2 class="title">A propos de ISTJOB</h2>
                 <br>
                 <p>
-                    Maxshop est un produit leader dans le domaine de la vente en ligne de gadgets de tous genre.
+                    Istjob est votre plateforme leader dans la recrutement en Côte-d'ivoire.
                 </p>
             </div>
             <div class="space_5"></div>
